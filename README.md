@@ -6,7 +6,7 @@
 
 You can also find some open source hardware I designed on [oshwlab.com/jostsalathe](https://oshwlab.com/jostsalathe).
 
-Contact me on Mastodon: (@jostsalathe@chaos.social)[https://chaos.social/@jostsalathe]
+Contact me on Mastodon: [@jostsalathe@chaos.social](https://chaos.social/@jostsalathe)
 
 <!---
 jostsalathe/jostsalathe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
